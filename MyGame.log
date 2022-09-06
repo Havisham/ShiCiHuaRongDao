@@ -1,0 +1,220 @@
+﻿  AppDelegate.cpp
+  CardSprite.cpp
+  GameTimer.cpp
+  HelloWorldScene.cpp
+  idea.cpp
+  PassPage.cpp
+d:\mycompany_here\mygame\classes\cardsprite.h(42): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\PassPage.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\PassPage.cpp)
+d:\mycompany_here\mygame\classes\cardsprite.h(42): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\CardSprite.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\CardSprite.cpp)
+d:\mycompany_here\mygame\classes\gametimer.h(25): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\GameTimer.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\GameTimer.cpp)
+d:\mycompany_here\mygame\classes\cardsprite.h(42): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\GameTimer.cpp)
+d:\mycompany_here\mygame\classes\cardsprite.cpp(33): warning C4996: 'cocos2d::LabelBMFont::setString': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\GameTimer.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(108): note: 参见“cocos2d::LabelBMFont::setString”的声明
+d:\mycompany_here\mygame\classes\cardsprite.cpp(36): warning C4996: 'cocos2d::LabelBMFont::setString': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(108): note: 参见“cocos2d::LabelBMFont::setString”的声明
+d:\mycompany_here\mygame\classes\cardsprite.cpp(43): warning C4996: 'cocos2d::LabelBMFont::setColor': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(130): note: 参见“cocos2d::LabelBMFont::setColor”的声明
+d:\mycompany_here\mygame\classes\cardsprite.cpp(47): warning C4996: 'cocos2d::LabelBMFont::setColor': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(130): note: 参见“cocos2d::LabelBMFont::setColor”的声明
+d:\mycompany_here\mygame\classes\cardsprite.cpp(52): warning C4996: 'cocos2d::LabelBMFont::setColor': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(130): note: 参见“cocos2d::LabelBMFont::setColor”的声明
+d:\mycompany_here\mygame\classes\cardsprite.cpp(57): warning C4996: 'cocos2d::LabelBMFont::setColor': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(130): note: 参见“cocos2d::LabelBMFont::setColor”的声明
+d:\mycompany_here\mygame\classes\cardsprite.cpp(66): warning C4996: 'cocos2d::LabelBMFont::getString': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(110): note: 参见“cocos2d::LabelBMFont::getString”的声明
+d:\mycompany_here\mygame\classes\cardsprite.h(42): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\idea.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\idea.cpp)
+d:\mycompany_here\mygame\classes\cardsprite.cpp(82): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明
+d:\mycompany_here\mygame\classes\cardsprite.cpp(94): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明
+d:\mycompany_here\mygame\classes\cardsprite.cpp(82): warning C4996: 'cocos2d::LabelBMFont::create': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(98): note: 参见“cocos2d::LabelBMFont::create”的声明
+d:\mycompany_here\mygame\classes\cardsprite.cpp(87): warning C4996: 'cocos2d::LabelBMFont::setColor': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(130): note: 参见“cocos2d::LabelBMFont::setColor”的声明
+d:\mycompany_here\mygame\classes\cardsprite.cpp(94): warning C4996: 'cocos2d::LabelBMFont::create': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(98): note: 参见“cocos2d::LabelBMFont::create”的声明
+d:\mycompany_here\mygame\classes\cardsprite.cpp(101): warning C4996: 'cocos2d::LabelBMFont::setColor': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(130): note: 参见“cocos2d::LabelBMFont::setColor”的声明
+d:\mycompany_here\mygame\classes\cardsprite.h(42): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\AppDelegate.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\AppDelegate.cpp)
+d:\mycompany_here\mygame\classes\poemsbox.h(19): warning C4996: 'cocos2d::CCObject': 被声明为已否决 (编译源文件 ..\Classes\AppDelegate.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(597): note: 参见“cocos2d::CCObject”的声明 (编译源文件 ..\Classes\AppDelegate.cpp)
+d:\mycompany_here\mygame\classes\poemsbox.h(32): warning C4996: 'cocos2d::CCObject': 被声明为已否决 (编译源文件 ..\Classes\AppDelegate.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(597): note: 参见“cocos2d::CCObject”的声明 (编译源文件 ..\Classes\AppDelegate.cpp)
+d:\mycompany_here\mygame\classes\poemsbox.h(19): warning C4996: 'cocos2d::CCObject': 被声明为已否决 (编译源文件 ..\Classes\idea.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(597): note: 参见“cocos2d::CCObject”的声明 (编译源文件 ..\Classes\idea.cpp)
+d:\mycompany_here\mygame\classes\poemsbox.h(32): warning C4996: 'cocos2d::CCObject': 被声明为已否决 (编译源文件 ..\Classes\idea.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(597): note: 参见“cocos2d::CCObject”的声明 (编译源文件 ..\Classes\idea.cpp)
+d:\mycompany_here\mygame\classes\gametimer.h(25): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\AppDelegate.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\AppDelegate.cpp)
+d:\mycompany_here\mygame\classes\gametimer.h(25): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\idea.cpp)
+d:\mycompany_here\mygame\classes\helloworldscene.h(109): warning C4996: 'cocos2d::CCParticleSystemQuad': 被声明为已否决 (编译源文件 ..\Classes\AppDelegate.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\idea.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(801): note: 参见“cocos2d::CCParticleSystemQuad”的声明 (编译源文件 ..\Classes\AppDelegate.cpp)
+d:\mycompany_here\mygame\classes\helloworldscene.h(149): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\AppDelegate.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\AppDelegate.cpp)
+d:\mycompany_here\mygame\classes\helloworldscene.h(109): warning C4996: 'cocos2d::CCParticleSystemQuad': 被声明为已否决 (编译源文件 ..\Classes\idea.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(801): note: 参见“cocos2d::CCParticleSystemQuad”的声明 (编译源文件 ..\Classes\idea.cpp)
+d:\mycompany_here\mygame\classes\helloworldscene.h(149): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\idea.cpp)
+d:\mycompany_here\mygame\classes\helloworldscene.h(151): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\AppDelegate.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\AppDelegate.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\idea.cpp)
+d:\mycompany_here\mygame\classes\helloworldscene.h(151): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\idea.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\idea.cpp)
+d:\mycompany_here\mygame\classes\idea.cpp(17): warning C4996: 'cocos2d::CCSize': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(835): note: 参见“cocos2d::CCSize”的声明
+d:\mycompany_here\mygame\classes\idea.cpp(17): warning C4996: 'cocos2d::Director::sharedDirector': 被声明为已否决
+d:\mycompany_here\mygame\classes\appdelegate.cpp(54): warning C4305: “参数”: 从“double”到“float”截断
+  d:\mycompany_here\mygame\cocos2d\cocos\base\ccdirector.h(149): note: 参见“cocos2d::Director::sharedDirector”的声明
+d:\mycompany_here\mygame\classes\idea.cpp(51): warning C4996: 'cocos2d::ui::Widget::addTouchEventListener': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\ui\uiwidget.h(309): note: 参见“cocos2d::ui::Widget::addTouchEventListener”的声明
+d:\mycompany_here\mygame\classes\poemsbox.h(19): warning C4996: 'cocos2d::CCObject': 被声明为已否决 (编译源文件 ..\Classes\PassPage.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(597): note: 参见“cocos2d::CCObject”的声明 (编译源文件 ..\Classes\PassPage.cpp)
+d:\mycompany_here\mygame\classes\poemsbox.h(32): warning C4996: 'cocos2d::CCObject': 被声明为已否决 (编译源文件 ..\Classes\PassPage.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(597): note: 参见“cocos2d::CCObject”的声明 (编译源文件 ..\Classes\PassPage.cpp)
+d:\mycompany_here\mygame\classes\gametimer.h(25): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\PassPage.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\PassPage.cpp)
+d:\mycompany_here\mygame\classes\helloworldscene.h(109): warning C4996: 'cocos2d::CCParticleSystemQuad': 被声明为已否决 (编译源文件 ..\Classes\PassPage.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(801): note: 参见“cocos2d::CCParticleSystemQuad”的声明 (编译源文件 ..\Classes\PassPage.cpp)
+d:\mycompany_here\mygame\classes\helloworldscene.h(149): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\PassPage.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\PassPage.cpp)
+d:\mycompany_here\mygame\classes\helloworldscene.h(151): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\PassPage.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\PassPage.cpp)
+d:\mycompany_here\mygame\classes\poemsbox.h(19): warning C4996: 'cocos2d::CCObject': 被声明为已否决 (编译源文件 ..\Classes\HelloWorldScene.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(597): note: 参见“cocos2d::CCObject”的声明 (编译源文件 ..\Classes\HelloWorldScene.cpp)
+d:\mycompany_here\mygame\classes\poemsbox.h(32): warning C4996: 'cocos2d::CCObject': 被声明为已否决 (编译源文件 ..\Classes\HelloWorldScene.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(597): note: 参见“cocos2d::CCObject”的声明 (编译源文件 ..\Classes\HelloWorldScene.cpp)
+d:\mycompany_here\mygame\classes\poemsbox.h(19): warning C4996: 'cocos2d::CCObject': 被声明为已否决 (编译源文件 ..\Classes\GameTimer.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(597): note: 参见“cocos2d::CCObject”的声明 (编译源文件 ..\Classes\GameTimer.cpp)
+d:\mycompany_here\mygame\classes\poemsbox.h(32): warning C4996: 'cocos2d::CCObject': 被声明为已否决 (编译源文件 ..\Classes\GameTimer.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(597): note: 参见“cocos2d::CCObject”的声明 (编译源文件 ..\Classes\GameTimer.cpp)
+d:\mycompany_here\mygame\classes\cardsprite.h(42): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\HelloWorldScene.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\HelloWorldScene.cpp)
+d:\mycompany_here\mygame\classes\helloworldscene.h(109): warning C4996: 'cocos2d::CCParticleSystemQuad': 被声明为已否决 (编译源文件 ..\Classes\GameTimer.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(801): note: 参见“cocos2d::CCParticleSystemQuad”的声明 (编译源文件 ..\Classes\GameTimer.cpp)
+d:\mycompany_here\mygame\classes\helloworldscene.h(149): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\GameTimer.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\GameTimer.cpp)
+d:\mycompany_here\mygame\classes\gametimer.h(25): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\HelloWorldScene.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\HelloWorldScene.cpp)
+d:\mycompany_here\mygame\classes\helloworldscene.h(151): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\GameTimer.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\GameTimer.cpp)
+d:\mycompany_here\mygame\classes\helloworldscene.h(109): warning C4996: 'cocos2d::CCParticleSystemQuad': 被声明为已否决 (编译源文件 ..\Classes\HelloWorldScene.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(801): note: 参见“cocos2d::CCParticleSystemQuad”的声明 (编译源文件 ..\Classes\HelloWorldScene.cpp)
+d:\mycompany_here\mygame\classes\helloworldscene.h(149): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\HelloWorldScene.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\HelloWorldScene.cpp)
+d:\mycompany_here\mygame\classes\helloworldscene.h(151): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\HelloWorldScene.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\HelloWorldScene.cpp)
+d:\mycompany_here\mygame\classes\passpage.cpp(49): warning C4996: 'cocos2d::ui::Widget::addTouchEventListener': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\ui\uiwidget.h(309): note: 参见“cocos2d::ui::Widget::addTouchEventListener”的声明
+d:\mycompany_here\mygame\classes\passpage.cpp(53): warning C4996: 'cocos2d::ui::Widget::addTouchEventListener': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\ui\uiwidget.h(309): note: 参见“cocos2d::ui::Widget::addTouchEventListener”的声明
+d:\mycompany_here\mygame\classes\passpage.cpp(63): warning C4996: 'cocos2d::ui::Widget::addTouchEventListener': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\ui\uiwidget.h(309): note: 参见“cocos2d::ui::Widget::addTouchEventListener”的声明
+d:\mycompany_here\mygame\classes\gametimer.cpp(21): warning C4996: 'cocos2d::LabelBMFont::create': 被声明为已否决
+d:\mycompany_here\mygame\classes\passpage.cpp(73): warning C4996: 'cocos2d::ui::Widget::addTouchEventListener': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(98): note: 参见“cocos2d::LabelBMFont::create”的声明
+  d:\mycompany_here\mygame\cocos2d\cocos\ui\uiwidget.h(309): note: 参见“cocos2d::ui::Widget::addTouchEventListener”的声明
+d:\mycompany_here\mygame\classes\passpage.cpp(82): warning C4996: 'cocos2d::LabelBMFont::create': 被声明为已否决
+d:\mycompany_here\mygame\classes\gametimer.cpp(23): warning C4996: 'cocos2d::LabelBMFont::setColor': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(98): note: 参见“cocos2d::LabelBMFont::create”的声明
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(130): note: 参见“cocos2d::LabelBMFont::setColor”的声明
+d:\mycompany_here\mygame\classes\passpage.cpp(84): warning C4996: 'cocos2d::LabelBMFont::setColor': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(130): note: 参见“cocos2d::LabelBMFont::setColor”的声明
+d:\mycompany_here\mygame\classes\gametimer.cpp(55): warning C4305: “参数”: 从“double”到“float”截断
+d:\mycompany_here\mygame\classes\passpage.cpp(102): warning C4996: 'cocos2d::LabelBMFont::create': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(98): note: 参见“cocos2d::LabelBMFont::create”的声明
+d:\mycompany_here\mygame\classes\gametimer.cpp(51): warning C4996: 'cocos2d::LabelBMFont::setString': 被声明为已否决
+d:\mycompany_here\mygame\classes\passpage.cpp(103): warning C4996: 'cocos2d::LabelBMFont::setColor': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(108): note: 参见“cocos2d::LabelBMFont::setString”的声明
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(130): note: 参见“cocos2d::LabelBMFont::setColor”的声明
+d:\mycompany_here\mygame\classes\gametimer.cpp(54): warning C4996: 'cocos2d::LabelBMFont::setColor': 被声明为已否决
+d:\mycompany_here\mygame\classes\passpage.cpp(112): warning C4996: 'cocos2d::LabelBMFont::create': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(130): note: 参见“cocos2d::LabelBMFont::setColor”的声明
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(98): note: 参见“cocos2d::LabelBMFont::create”的声明
+d:\mycompany_here\mygame\classes\passpage.cpp(113): warning C4996: 'cocos2d::LabelBMFont::setColor': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(130): note: 参见“cocos2d::LabelBMFont::setColor”的声明
+d:\mycompany_here\mygame\classes\helloworldscene.cpp(128): warning C4996: 'cocos2d::LabelBMFont::create': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(98): note: 参见“cocos2d::LabelBMFont::create”的声明
+d:\mycompany_here\mygame\classes\helloworldscene.cpp(129): warning C4996: 'cocos2d::LabelBMFont::setColor': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(130): note: 参见“cocos2d::LabelBMFont::setColor”的声明
+d:\mycompany_here\mygame\classes\helloworldscene.cpp(163): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\ccmenuitem.h(432): note: 参见“cocos2d::MenuItemImage::create”的声明
+d:\mycompany_here\mygame\classes\helloworldscene.cpp(306): warning C4996: 'cocos2d::ccc3': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(476): note: 参见“cocos2d::ccc3”的声明
+d:\mycompany_here\mygame\classes\helloworldscene.cpp(595): warning C4996: 'cocos2d::LabelBMFont::setString': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(108): note: 参见“cocos2d::LabelBMFont::setString”的声明
+d:\mycompany_here\mygame\classes\helloworldscene.cpp(620): warning C4305: “参数”: 从“double”到“float”截断
+d:\mycompany_here\mygame\classes\helloworldscene.cpp(624): warning C4305: “参数”: 从“double”到“float”截断
+d:\mycompany_here\mygame\classes\helloworldscene.cpp(628): warning C4305: “参数”: 从“double”到“float”截断
+d:\mycompany_here\mygame\classes\helloworldscene.cpp(626): warning C4996: 'cocos2d::CallFunc::create': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\ccactioninstant.h(345): note: 参见“cocos2d::CallFunc::create”的声明
+d:\mycompany_here\mygame\classes\helloworldscene.cpp(648): warning C4996: 'cocos2d::LabelBMFont::setString': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(108): note: 参见“cocos2d::LabelBMFont::setString”的声明
+d:\mycompany_here\mygame\classes\helloworldscene.cpp(669): warning C4305: “参数”: 从“double”到“float”截断
+d:\mycompany_here\mygame\classes\helloworldscene.cpp(673): warning C4305: “参数”: 从“double”到“float”截断
+d:\mycompany_here\mygame\classes\helloworldscene.cpp(679): warning C4305: “参数”: 从“double”到“float”截断
+d:\mycompany_here\mygame\classes\helloworldscene.cpp(675): warning C4996: 'cocos2d::CallFunc::create': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\ccactioninstant.h(345): note: 参见“cocos2d::CallFunc::create”的声明
+d:\mycompany_here\mygame\classes\helloworldscene.cpp(697): warning C4996: 'cocos2d::LabelBMFont::setString': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(108): note: 参见“cocos2d::LabelBMFont::setString”的声明
+d:\mycompany_here\mygame\classes\helloworldscene.cpp(725): warning C4305: “参数”: 从“double”到“float”截断
+d:\mycompany_here\mygame\classes\helloworldscene.cpp(729): warning C4305: “参数”: 从“double”到“float”截断
+d:\mycompany_here\mygame\classes\helloworldscene.cpp(731): warning C4996: 'cocos2d::CallFunc::create': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\ccactioninstant.h(345): note: 参见“cocos2d::CallFunc::create”的声明
+d:\mycompany_here\mygame\classes\helloworldscene.cpp(753): warning C4996: 'cocos2d::LabelBMFont::setString': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(108): note: 参见“cocos2d::LabelBMFont::setString”的声明
+d:\mycompany_here\mygame\classes\helloworldscene.cpp(781): warning C4305: “参数”: 从“double”到“float”截断
+d:\mycompany_here\mygame\classes\helloworldscene.cpp(785): warning C4305: “参数”: 从“double”到“float”截断
+d:\mycompany_here\mygame\classes\helloworldscene.cpp(787): warning C4996: 'cocos2d::CallFunc::create': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\ccactioninstant.h(345): note: 参见“cocos2d::CallFunc::create”的声明
+  PoemIndex.cpp
+  PoemsBox.cpp
+  main.cpp
+d:\mycompany_here\mygame\classes\cardsprite.h(42): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\PoemIndex.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\PoemIndex.cpp)
+d:\mycompany_here\mygame\classes\poemsbox.h(19): warning C4996: 'cocos2d::CCObject': 被声明为已否决 (编译源文件 ..\Classes\PoemsBox.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(597): note: 参见“cocos2d::CCObject”的声明 (编译源文件 ..\Classes\PoemsBox.cpp)
+d:\mycompany_here\mygame\classes\poemsbox.h(32): warning C4996: 'cocos2d::CCObject': 被声明为已否决 (编译源文件 ..\Classes\PoemsBox.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(597): note: 参见“cocos2d::CCObject”的声明 (编译源文件 ..\Classes\PoemsBox.cpp)
+d:\mycompany_here\mygame\classes\poemsbox.cpp(55): warning C4996: 'cocos2d::CCSize': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(835): note: 参见“cocos2d::CCSize”的声明
+d:\mycompany_here\mygame\classes\poemsbox.cpp(56): warning C4996: 'cocos2d::LabelTTF': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelttf.h(68): note: 参见“cocos2d::LabelTTF”的声明
+d:\mycompany_here\mygame\classes\poemsbox.cpp(50): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\ccmenuitem.h(432): note: 参见“cocos2d::MenuItemImage::create”的声明
+d:\mycompany_here\mygame\classes\poemsbox.cpp(56): warning C4996: 'cocos2d::LabelTTF::create': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelttf.h(84): note: 参见“cocos2d::LabelTTF::create”的声明
+d:\mycompany_here\mygame\classes\poemsbox.cpp(57): warning C4996: 'cocos2d::ccc3': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(476): note: 参见“cocos2d::ccc3”的声明
+d:\mycompany_here\mygame\classes\poemsbox.cpp(58): warning C4996: 'cocos2d::ccp': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(108): note: 参见“cocos2d::ccp”的声明
+d:\mycompany_here\mygame\classes\poemsbox.cpp(68): warning C4996: 'cocos2d::MenuItemImage::create': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\ccmenuitem.h(432): note: 参见“cocos2d::MenuItemImage::create”的声明
+d:\mycompany_here\mygame\classes\poemsbox.cpp(76): warning C4996: 'cocos2d::CCObject': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(597): note: 参见“cocos2d::CCObject”的声明
+d:\mycompany_here\mygame\classes\poemsbox.cpp(147): warning C4996: 'cocos2d::ccc3': 被声明为已否决
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(476): note: 参见“cocos2d::ccc3”的声明
+d:\mycompany_here\mygame\classes\poemsbox.h(19): warning C4996: 'cocos2d::CCObject': 被声明为已否决 (编译源文件 ..\Classes\PoemIndex.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(597): note: 参见“cocos2d::CCObject”的声明 (编译源文件 ..\Classes\PoemIndex.cpp)
+d:\mycompany_here\mygame\classes\poemsbox.h(32): warning C4996: 'cocos2d::CCObject': 被声明为已否决 (编译源文件 ..\Classes\PoemIndex.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(597): note: 参见“cocos2d::CCObject”的声明 (编译源文件 ..\Classes\PoemIndex.cpp)
+d:\mycompany_here\mygame\classes\gametimer.h(25): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\PoemIndex.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\PoemIndex.cpp)
+d:\mycompany_here\mygame\classes\helloworldscene.h(109): warning C4996: 'cocos2d::CCParticleSystemQuad': 被声明为已否决 (编译源文件 ..\Classes\PoemIndex.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\deprecated\ccdeprecated.h(801): note: 参见“cocos2d::CCParticleSystemQuad”的声明 (编译源文件 ..\Classes\PoemIndex.cpp)
+d:\mycompany_here\mygame\classes\helloworldscene.h(149): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\PoemIndex.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\PoemIndex.cpp)
+d:\mycompany_here\mygame\classes\helloworldscene.h(151): warning C4996: 'cocos2d::LabelBMFont': 被声明为已否决 (编译源文件 ..\Classes\PoemIndex.cpp)
+  d:\mycompany_here\mygame\cocos2d\cocos\2d\cclabelbmfont.h(84): note: 参见“cocos2d::LabelBMFont”的声明 (编译源文件 ..\Classes\PoemIndex.cpp)
+    正在创建库 D:\MyCompany_Here\MyGame\proj.win32\Release.win32\MyGame.lib 和对象 D:\MyCompany_Here\MyGame\proj.win32\Release.win32\MyGame.exp
+  正在生成代码
+  All 881 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  MyGame.vcxproj -> D:\MyCompany_Here\MyGame\proj.win32\Release.win32\MyGame.exe
+  Performing Custom Build Step
+  0 File(s) copied
